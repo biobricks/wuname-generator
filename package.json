@@ -1,0 +1,20 @@
+{
+  "name": "wuname-generator",
+  "version": "0.0.1",
+  "description": "A simple Wu-Tang style name generator",
+  "homepage": "http://github.com/biobricks/wuname-generator",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/biobricks/wuname-generator.git"
+  },
+  "dependencies": {
+  },
+  "author": {
+    "name": "Marc Juul",
+    "email": "npm@juul.io"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/biobricks/wuname-generator/issues"
+  }
+}
